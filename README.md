@@ -13,7 +13,7 @@ To reproduce the results, you will need the Mimetic Operator Library Enhanced[(M
 
 To reproduce the results, you should run the file `minimal_poisson2D.mat`.
 
-If you wish to generate plots for convergence and evolution of the parameter m, and/or skip some computations, you can activate the corresponding control flags embedded in the source code.
+If you wish to generate plots for convergence and evolution of the restart parameter m, and/or skip some computations, you can activate the corresponding control flags embedded in the source code.
 
 ## Citing
 
@@ -21,4 +21,4 @@ If you use (either all or a part of) the code present in this repository, I ask 
 
 ## References
 
-[1] **Espínola, G. E., Cabral, J. C., Schaerer, C. E., & Varela, J.** (2025). *A numerical investigation on iterative methods for the two-dimensional Poisson equation discretized with high-order mimetic operators*. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 11(1), 1-2. URL: [https://proceedings.sbmac.org.br/sbmac/article/view/4723](https://proceedings.sbmac.org.br/sbmac/article/view/4723)
+[1] **Espínola, G. E., Cabral, J. C., Schaerer, C. E., & Varela, J.** (2025). *A numerical investigation on iterative methods for the two-dimensional Poisson equation discretized with high-order mimetic operators*. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 11(1), 1-2. URL: [https://proceedings.sbmac.org.br/sbmac/article/view/4723](https://proceedings.sbmac.org.br/sbmac/article/view/4723).
