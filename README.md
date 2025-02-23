@@ -11,7 +11,7 @@ To reproduce the results, you will need the Mimetic Operator Library Enhanced[(M
 
 ## Reproducing the results
 
-To reproduce the results, you should run the file `minimal_poisson2D.mat`.
+To reproduce the results, you should run the file `minimal_poisson2D.m`.
 
 If you wish to generate plots for convergence and evolution of the restart parameter m, and/or skip some computations, you can activate the corresponding control flags embedded in the source code.
 
